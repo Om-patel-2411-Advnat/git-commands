@@ -7,13 +7,12 @@ function sum(){
 let a = 10;
 let b = 20;
 console.log(sum(a, b));
-console.log("heyy, I am Nitin")
-// <<<<<<< HEAD
-console.log("i dob't know much about apach web server ")
-// =======
-console.log("i dob't know much about apach web server ")
+console.log("heyy, I am Nitin");
+console.log("i dob't know much about apach web server ");
 
-console.log("124 ")
+console.log("124 ");
 
-console.log("hello, world")
-// >>>>>>> 50ac988dcdac5315d745d409237e306b7b7fd427
+console.log("hello, world");
+
+
+console.log("check your code");
