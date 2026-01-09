@@ -10,5 +10,6 @@ console.log(sum(a, b));
 console.log("heyy, I am Nitin")
 console.log("i dob't know much about apach web server ")
 
+console.log("124 ")
 
 console.log("hello, world")
