@@ -17,4 +17,4 @@ console.log("hello, world");
 
 console.log("check your code");
 
-console.log('this is made on 18th june');
+console.log('remove the old console')
