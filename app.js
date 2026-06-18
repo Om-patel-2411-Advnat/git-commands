@@ -16,3 +16,5 @@ console.log("hello, world");
 
 
 console.log("check your code");
+
+console.log('remove the old console and update the new one')
